@@ -1,0 +1,19 @@
+{
+  "name": "ecosmart-api",
+  "version": "1.0.0",
+  "description": "esta es la api para ecoSmart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joscor34/ecoSmart-api.git"
+  },
+  "author": "joscor34",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joscor34/ecoSmart-api/issues"
+  },
+  "homepage": "https://github.com/joscor34/ecoSmart-api#readme"
+}
